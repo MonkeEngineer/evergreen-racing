@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-<!-- Describe what this project is and where it fits in the Ecosystem Admin organization. -->
+Evergreen Racing is a racing engine built with C++ and Vulkan.
 
 ## Labels
 
